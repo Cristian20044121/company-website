@@ -1,13 +1,12 @@
 
 TITLE: 
-Beryllium - 100% Fully Responsive Free HTML5 Bootstrap Template
+COMPANY WEBSITE
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED 
+cristian caro
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+
 
 
 CREDITS:
